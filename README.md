@@ -1,2 +1,2 @@
 # Multi-fidelity reduced-order surrogate modeling
-# (MF-POD)
+Source code of the paper "Multi-fidelity reduced-order surrogate modeling"
