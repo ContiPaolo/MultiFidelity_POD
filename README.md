@@ -1,1 +1,2 @@
-# MultiFidelity_POD
+# Multi-fidelity reduced-order surrogate modeling
+# (MF-POD)
