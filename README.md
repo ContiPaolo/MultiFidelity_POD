@@ -7,9 +7,7 @@ Source code of the paper [*Multi-fidelity reduced-order surrogate modeling.*](ht
 Full datasets are available at https://doi.org/10.5281/zenodo.8316324
 
 ## Tutorial:
-Tutorial for multi-fidelity regression and multi-fidelity reduced-order modeling of Burger's equation.
-
-[Tutorial Burger](https://colab.research.google.com/github/ContiPaolo/Multifidelity-Tutorial/blob/main/Tutorial_Multi_Fidelity_(solution).ipynb#scrollTo=JwVPQmFEpVkc)
+Tutorial for multi-fidelity regression and multi-fidelity reduced-order modeling of Burger's equation: [Tutorial Burger](https://colab.research.google.com/github/ContiPaolo/Multifidelity-Tutorial/blob/main/Tutorial_Multi_Fidelity_(solution).ipynb#scrollTo=JwVPQmFEpVkc)
 
 ## Abstract:
 
