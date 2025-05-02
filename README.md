@@ -1,5 +1,5 @@
 # Multi-fidelity reduced-order surrogate modeling
-Source code of the paper [*Multi-fidelity reduced-order surrogate modeling.*](http://arxiv.org/abs/2309.00325).
+Source code of the paper [*Multi-fidelity reduced-order surrogate modeling*](http://arxiv.org/abs/2309.00325).
 
 ![featured](https://github.com/ContiPaolo/MultiFidelity_POD/assets/51111500/152482e1-f75c-4115-b49c-d72ed0f2be72)
 
